@@ -180,7 +180,9 @@ footer img{
 	margin: 0 auto;
 }
 
-
+.checked {
+  color: orange;
+}
 
 
 
